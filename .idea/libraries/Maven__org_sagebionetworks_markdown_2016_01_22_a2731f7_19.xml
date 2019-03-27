@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sagebionetworks:markdown:2016-01-22-a2731f7-19">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sagebionetworks/markdown/2016-01-22-a2731f7-19/markdown-2016-01-22-a2731f7-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sagebionetworks/markdown/2016-01-22-a2731f7-19/markdown-2016-01-22-a2731f7-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sagebionetworks/markdown/2016-01-22-a2731f7-19/markdown-2016-01-22-a2731f7-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

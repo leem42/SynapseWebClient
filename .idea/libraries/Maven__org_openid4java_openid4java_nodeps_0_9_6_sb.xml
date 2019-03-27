@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.openid4java:openid4java-nodeps:0.9.6.sb">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openid4java/openid4java-nodeps/0.9.6.sb/openid4java-nodeps-0.9.6.sb.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openid4java/openid4java-nodeps/0.9.6.sb/openid4java-nodeps-0.9.6.sb-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openid4java/openid4java-nodeps/0.9.6.sb/openid4java-nodeps-0.9.6.sb-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

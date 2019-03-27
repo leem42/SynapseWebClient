@@ -2834,6 +2834,11 @@ div.border {
 	.SRC-primary-text-color {
 		color: $synapse-blue;
 	}
+  // These classes have to get overriden
+  .SRC-primary-color-hover:hover * {
+    color: $synapse-blue;
+    fill: $synapse-blue;
+  }
 	.SRC-primary-background-color-hover:hover {
 		background: $synapse-blue !important;
 		color: white;
